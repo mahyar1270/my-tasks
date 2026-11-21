@@ -1,0 +1,7 @@
+{
+  "name": "my-tasks2",
+  "main": "worker.js",
+  "compatibility_date": "2025-11-01",
+  "kv_namespaces": [{ "binding": "KV" }],
+  "triggers": { "crons": ["* * * * *"] }
+}
